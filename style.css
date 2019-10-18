@@ -1,0 +1,33 @@
+
+body {
+  background-image: url(WallPapa.jpeg);
+  background-size: 100% 100%;
+  font-family: Cambria, Georgia, Serif;
+}
+
+#buton {
+  background-color: beige;
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+#buttton {
+  background-color:tan;
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+#user {
+  background-color: blue;
+  color: yellow;
+}
+
+#thanos {
+  background-color:red;
+  color: purple;
+}
+
+#fun {
+  font-size: 45px;
+  text-decoration: underline;
+}
